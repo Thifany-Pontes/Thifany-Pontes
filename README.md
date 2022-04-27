@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thifany-Pontes
 - 👀 I’m interested in ... Front- End
-- 🌱 I’m currently learning ... HTML< CSS< JAVASCRIP
+- 🌱 I’m currently learning ... HTML< CSS< JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... (15) 991942554
 
